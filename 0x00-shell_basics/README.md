@@ -1,1 +1,1 @@
-A script that displays a list of content
+A script that brings back to home directory
